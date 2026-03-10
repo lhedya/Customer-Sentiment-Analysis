@@ -73,4 +73,4 @@ dan memberikan rekomendasi strategis berbasis data.
 ## 📁 File Structure
 - `notebook/` → Google Colab (.ipynb)
 - `dashboard/` → Power BI file (.pbix)
-- `data/` → Raw & cleaned dataset
+- `data/` → Raw dataset
